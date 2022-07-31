@@ -1,0 +1,12 @@
+{
+  "name": "contracts",
+  "main": "truffle-config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proxyreactor/contracts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/proxyreactor/contracts/issues"
+  },
+  "homepage": "https://github.com/proxyreactor/contracts#readme"
+}
