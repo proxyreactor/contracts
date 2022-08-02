@@ -8,5 +8,11 @@
   "bugs": {
     "url": "https://github.com/proxyreactor/contracts/issues"
   },
-  "homepage": "https://github.com/proxyreactor/contracts#readme"
+  "homepage": "https://github.com/proxyreactor/contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.7.2",
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "truffle-plugin-verify": "^0.5.26",
+    "truffle-privatekey-provider": "^1.5.0"
+  }
 }
